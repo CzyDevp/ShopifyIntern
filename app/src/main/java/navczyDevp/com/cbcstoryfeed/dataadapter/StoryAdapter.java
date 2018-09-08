@@ -13,6 +13,7 @@ import java.util.List;
 import butterknife.BindView;
 import butterknife.ButterKnife;
 import navczyDevp.com.cbcstoryfeed.R;
+import navczyDevp.com.cbcstoryfeed.activities.GetStoriesViewModel;
 import navczyDevp.com.cbcstoryfeed.activities.ProcessDescription;
 import navczyDevp.com.cbcstoryfeed.activities.WebViewActivity;
 import navczyDevp.com.cbcstoryfeed.model.StoryItem;
@@ -43,7 +44,8 @@ public class StoryAdapter extends RecyclerView.Adapter<StoryAdapter.StoryViewHol
         storyViewHolder.itemView.setOnClickListener(view -> {
             // open webView activity on item click
             Intent intent = new Intent(context, WebViewActivity.class);
-            intent.putExtra("url", items.get(position).getLink()); // put story url in Intent
+            GetStoriesViewModel.storyUrl.setValue(items.get(position).getLink());
+            //intent.putExtra("url", items.get(position).getLink()); // put story url in Intent
             context.startActivity(intent); // start Intent
         });
     }

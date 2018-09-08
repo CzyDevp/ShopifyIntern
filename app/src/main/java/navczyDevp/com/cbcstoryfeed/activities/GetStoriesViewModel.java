@@ -12,6 +12,7 @@ import retrofit2.Response;
 public class GetStoriesViewModel extends ViewModel {
     private static String TAG = "GetStoriesViewModel";
     private MutableLiveData<StoryFeed> storyFeed;
+    public static MutableLiveData<String> storyUrl = new MutableLiveData<>();
     public LiveData<StoryFeed> getStoryItems() {
         if (storyFeed == null) {
             storyFeed = new MutableLiveData<>();

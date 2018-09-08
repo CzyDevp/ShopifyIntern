@@ -3,6 +3,7 @@ package navczyDevp.com.cbcstoryfeed.activities;
 import android.arch.lifecycle.Lifecycle;
 import android.arch.lifecycle.LifecycleObserver;
 import android.arch.lifecycle.OnLifecycleEvent;
+import android.arch.lifecycle.ViewModelProviders;
 import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
@@ -14,9 +15,11 @@ import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
+
 import butterknife.BindView;
 import butterknife.ButterKnife;
 import navczyDevp.com.cbcstoryfeed.R;
+
 import static navczyDevp.com.cbcstoryfeed.activities.OpenSettings.askUserToOpenSettings;
 public class WebViewActivity extends AppCompatActivity implements LifecycleObserver{
     private static  final String TAG ="WebViewActivity";
@@ -30,16 +33,17 @@ public class WebViewActivity extends AppCompatActivity implements LifecycleObser
         getLifecycle().addObserver(this);
         webView.getSettings().setJavaScriptEnabled(true);
         webView.setWebViewClient(new WebViewClient());
-        Intent intent = getIntent(); // get Intent used to get url from story
         Log.i(TAG,"Story opened");
-        String url = intent.getStringExtra("url");
         wifiStateReceiver = new BroadcastReceiver() {
             @Override
             public void onReceive(Context context, Intent intent) {
                 ConnectivityManager connectivityManager = (ConnectivityManager)context.getSystemService(Context.CONNECTIVITY_SERVICE);
                 NetworkInfo networkInfo = connectivityManager.getActiveNetworkInfo();
                 boolean netInfo = networkInfo !=null && networkInfo.isConnected();
-                if(netInfo) webView.loadUrl(url);
+                if(netInfo) {
+                    GetStoriesViewModel model = ViewModelProviders.of(WebViewActivity.this).get(GetStoriesViewModel.class);
+                    model.storyUrl.observe(WebViewActivity.this,str-> webView.loadUrl(str));
+            }
                 else askUserToOpenSettings(context).show();
             }
         };

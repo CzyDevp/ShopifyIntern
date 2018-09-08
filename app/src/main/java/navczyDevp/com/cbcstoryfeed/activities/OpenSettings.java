@@ -15,7 +15,6 @@ public class OpenSettings{
     public  static AlertDialog askUserToOpenSettings(Context context){
         AlertDialog.Builder wifiSettingsDialog = new AlertDialog.Builder(context, R.style.MyDialogTheme);
         wifiSettingsDialog.setMessage("use wifi to get stories?? ")
-                .setIcon(R.mipmap.ic_info)
                 .setNegativeButton(R.string.cancel, (dialog, which) ->dialog.dismiss())
                 .setPositiveButton(R.string.ok, (dialog, which) -> startActivity(context,new Intent(Settings.ACTION_WIFI_SETTINGS),null));
         return wifiSettingsDialog.create();
