@@ -20,6 +20,7 @@ As application starts,it will check the status of **WiFi** network, if it's not 
 ### All the developer's guidelines followed to make a better and efficient App.
 
 ## Screenshots go here:
- 
+* Screen1: 
+![alt text](https://github.com/CzyDevp/CBC_StoryFeed/issues/url)
   
 
