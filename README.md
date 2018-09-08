@@ -20,7 +20,12 @@ As application starts,it will check the status of **WiFi** network, if it's not 
 ### All the developer's guidelines followed to make a better and efficient App.
 
 ## Screenshots go here:
-* Screen1: 
-![alt text](https://github.com/CzyDevp/CBC_StoryFeed/issues/url)
-  
 
+![screen1](https://user-images.githubusercontent.com/8358882/45258944-f3655600-b38f-11e8-96ff-8a3be92b3546.png)
+
+![alertwifi](https://user-images.githubusercontent.com/8358882/45258950-14c64200-b390-11e8-816c-b3fa72a395ef.png)
+
+![screen2](https://user-images.githubusercontent.com/8358882/45258951-14c64200-b390-11e8-8e19-f998b3f66d50.png)
+
+
+                                                  #**🙂🙂🙂🙂 HAPPY CODING 🙂🙂🙂🙂** 
