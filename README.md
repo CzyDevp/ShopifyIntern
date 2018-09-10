@@ -13,8 +13,8 @@
 As application starts,it will check the status of **WiFi** network, if it's not active it will show the 
 **Alert-Dialog** to open **settings** to get activate **wifi** settings.
 * App includes 2 activiteis
-   * Main (here it shows the list of stories in **RecycleViewAdapter** )
-   * WebView (**RecycleViewAdapter's** onitemClick will open this activity, here **webview** will open the detailes story)
+   * Main (here it shows the list of stories in **RecyclerView** )
+   * WebView (**RecycleViewAdapter's** onitemClick will open this activity, here **webview** will open the detailed story)
 ## BroadcastReceiver implemented for getting the **network state change** using **Context.registerReceiver**
 
 ### All the developer's guidelines followed to make a better and efficient App.
