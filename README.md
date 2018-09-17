@@ -19,7 +19,7 @@ As application starts,it will fetch the **json** from **url**.
 
 ## Screenshots go here:
 
-![screen1](https://user-images.githubusercontent.com/8358882/45258944-f3655600-b38f-11e8-96ff-8a3be92b3546.png)
+![screen1](https://user-images.githubusercontent.com/8358882/45604210-2ea2fd00-ba00-11e8-99a6-4acdb5001b1d.png)
 
 ![alertwifi](https://user-images.githubusercontent.com/8358882/45258950-14c64200-b390-11e8-816c-b3fa72a395ef.png)
 
