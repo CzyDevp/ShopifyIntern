@@ -25,4 +25,4 @@ As application starts,it will fetch the **json** from **url**.
 ![products](https://user-images.githubusercontent.com/8358882/45604239-6b6ef400-ba00-11e8-8526-ffa0bfe29348.png)
 
 
-                                                  #**ðŸ™‚ðŸ™‚ðŸ™‚ðŸ™‚ HAPPY CODING ðŸ™‚ðŸ™‚ðŸ™‚ðŸ™‚** 
+                                                  😎😎😎 HAPPY CODING 😎😎😎 
