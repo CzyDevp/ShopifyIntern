@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\AndroidProjects\\Java\\CBC_StoryFeed\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ur\\values-ur.xml",
+            "outputFile": "D:\\ShopifyChallenge\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ur\\values-ur.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Navjot\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-alpha1.aar\\af4373985cf7f4cb3c9d0a3cc8b6829e\\res\\values-ur\\values-ur.xml",
+                    "source": "C:\\Users\\Navjot\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-alpha1.aar\\ad49e0282b14a9527881ab0e25ff30cd\\res\\values-ur\\values-ur.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Navjot\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0-alpha1.aar\\942de93efc614205a108cb69df693a56\\res\\values-ur\\values-ur.xml",
+                    "source": "C:\\Users\\Navjot\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0-alpha1.aar\\5e3e37ece6c336a5e0ea77867b71c909\\res\\values-ur\\values-ur.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

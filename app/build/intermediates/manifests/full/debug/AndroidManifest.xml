@@ -17,16 +17,16 @@
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:supportsRtl="true"
-        android:testOnly="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="navczyDevp.com.cbcstoryfeed.activities.MainActivity" >
+        <activity android:name="navczyDevp.com.shopifyintern.activities.MainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="navczyDevp.com.cbcstoryfeed.activities.WebViewActivity" />
+        <activity android:name="navczyDevp.com.shopifyintern.activities.Shopify" >
+        </activity>
 
         <provider
             android:name="android.arch.lifecycle.ProcessLifecycleOwnerInitializer"

@@ -1,174 +1,174 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\AndroidProjects\Java\CBC_StoryFeed\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from D:\AndroidProjects\Java\CBC_StoryFeed\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from D:\AndroidProjects\Java\CBC_StoryFeed\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from D:\AndroidProjects\Java\CBC_StoryFeed\app\src\main\AndroidManifest.xml:2:1-21:12
-MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha1.aar\af4373985cf7f4cb3c9d0a3cc8b6829e\AndroidManifest.xml:17:1-23:12
-MERGED from [com.android.support:recyclerview-v7:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0-alpha1.aar\829d8337d5f54c79d0a2964138998003\AndroidManifest.xml:17:1-23:12
-MERGED from [com.android.support:cardview-v7:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0-alpha1.aar\e22d849e32aa51904b430edf1e6317de\AndroidManifest.xml:17:1-23:12
-MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\cfdb4d750b9638e829cd95673a8d3ace\AndroidManifest.xml:2:1-7:12
-MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\f62174fabfd9cf6e7e65866df58f1cf0\AndroidManifest.xml:17:1-30:12
-MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha1.aar\0f073c1f286e6f5f330f282657fb93a2\AndroidManifest.xml:17:1-23:12
-MERGED from [com.android.support:support-fragment:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha1.aar\13b45f89bf7482a994c043a87312a115\AndroidManifest.xml:17:1-23:12
-MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha1.aar\e46b727d5e6be86dcc040904f58cb160\AndroidManifest.xml:17:1-23:12
-MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha1.aar\d3d63ccaf3ad7b4875fb8db73563e03f\AndroidManifest.xml:17:1-23:12
-MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha1.aar\9c49792b4d3c418dd31e2c0c20e7080b\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\99d3d554bf445934e5910654fd13a83e\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:loader:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha1.aar\baf35cc5a70634aeb9e016766b2be188\AndroidManifest.xml:17:1-23:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\a5a94ba96ebf33aa38fcd69d12060184\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\632508efa866daa4d1f45fc1ba0e73ba\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:viewpager:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha1.aar\a5c760d7033953bc89cf4fd98e3c1ad1\AndroidManifest.xml:17:1-23:12
-MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha1.aar\81842cb8f22aa820dbfa512db498fc84\AndroidManifest.xml:17:1-23:12
-MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha1.aar\a00b6b88aaae8d70b491bc87f5618dd6\AndroidManifest.xml:17:1-23:12
-MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha1.aar\bb9ae625acd6e2a0d652c4af9fcbb232\AndroidManifest.xml:17:1-23:12
-MERGED from [com.android.support:customview:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha1.aar\2303cd9068b80d828c82358e73f469a9\AndroidManifest.xml:17:1-23:12
-MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha1.aar\ff638f3fbd1945efcd1d640f545b7b4c\AndroidManifest.xml:17:1-23:12
-MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha1.aar\45012ba236547be60af212a334e39bab\AndroidManifest.xml:17:1-23:12
-MERGED from [com.android.support:support-compat:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha1.aar\942de93efc614205a108cb69df693a56\AndroidManifest.xml:17:1-23:12
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\26a907523b556ff977322e0b4751f6bf\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:documentfile:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha1.aar\10aa054d7879d556db7e9119a7cc0447\AndroidManifest.xml:17:1-23:12
-MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha1.aar\fc5683683d9e47f4e09dfa3d865b566d\AndroidManifest.xml:17:1-23:12
-MERGED from [com.android.support:print:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha1.aar\7ccca13493d458c6344907e9f8bf504a\AndroidManifest.xml:17:1-23:12
-MERGED from [com.android.support:interpolator:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha1.aar\97375bf963698b4cf3b016ee19448e04\AndroidManifest.xml:17:1-23:12
-MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha1.aar\f7381a9cf549824af9c15caf73973375\AndroidManifest.xml:17:1-23:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\c6aae03c6ee2db696b620748edfc7861\AndroidManifest.xml:17:1-22:12
-INJECTED from D:\AndroidProjects\Java\CBC_StoryFeed\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from D:\AndroidProjects\Java\CBC_StoryFeed\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from D:\AndroidProjects\Java\CBC_StoryFeed\app\src\main\AndroidManifest.xml:2:1-21:12
+ADDED from D:\ShopifyChallenge\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from D:\ShopifyChallenge\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from D:\ShopifyChallenge\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from D:\ShopifyChallenge\app\src\main\AndroidManifest.xml:2:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha1.aar\ad49e0282b14a9527881ab0e25ff30cd\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0-alpha1.aar\15b884004a7cf6c743e2a3887f627808\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:cardview-v7:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0-alpha1.aar\5a47466848ddb7236c6463dc3a2b28e5\AndroidManifest.xml:17:1-23:12
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\68160b896b7ed0d10f6b0df3dc3666a4\AndroidManifest.xml:2:1-7:12
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\07b7ba7a018cc49bd5c12664dc81b51e\AndroidManifest.xml:17:1-30:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha1.aar\8e8b74888e1144012b335a863160a42b\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha1.aar\a788bf4c6700a47d725faf731bdf8611\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha1.aar\9257c970063ac0c30eac691e2baf6daf\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha1.aar\08f6bd4658bfddf68dcf02a51c374023\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha1.aar\6be51368b9cc5847b47199548549df66\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\78d880728b564667f3cc70993eb9c0bd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha1.aar\cf31ac803ad48c47b16da550dbeae46e\AndroidManifest.xml:17:1-23:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\9f3db356a254d53b26ddf00ff397b46a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\68a94d7af274f8f0039a765b3aed3d44\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha1.aar\17efb9bd31653bc0b03480d38cd942a0\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha1.aar\53421a9e5c01ac8aec51ba337ac99292\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha1.aar\355cbe735ba78b1c9f1d25c5520b12a5\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha1.aar\a557ea86dda41c52cd8ba8b042ee516c\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:customview:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha1.aar\8da62d6b8e63773773c0ce526f2d43af\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha1.aar\7c30200121f9220acc35350ad276762e\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha1.aar\0ec2a119823104ba5643655bd07cc8a8\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha1.aar\5e3e37ece6c336a5e0ea77867b71c909\AndroidManifest.xml:17:1-23:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\aea149c1e7f2dfb47ace4024cc139005\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha1.aar\1a6aae9ac378ec33fc204cd782afa83a\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha1.aar\93d9fc06c240f89d184afdeaf55ceb51\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:print:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha1.aar\017af4f38d8d9453b5a37f9007096460\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha1.aar\9f1bc230efb81bd11379ad39e9bb2a73\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha1.aar\421b66d8c56132c8a91594e743b9a39f\AndroidManifest.xml:17:1-23:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\972159dce5930e83f81f6f43bb63688c\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\ShopifyChallenge\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from D:\ShopifyChallenge\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from D:\ShopifyChallenge\app\src\main\AndroidManifest.xml:2:1-22:12
 	package
-		ADDED from D:\AndroidProjects\Java\CBC_StoryFeed\app\src\main\AndroidManifest.xml:3:5-42
-		INJECTED from D:\AndroidProjects\Java\CBC_StoryFeed\app\src\main\AndroidManifest.xml
-		INJECTED from D:\AndroidProjects\Java\CBC_StoryFeed\app\src\main\AndroidManifest.xml
+		ADDED from D:\ShopifyChallenge\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from D:\ShopifyChallenge\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ShopifyChallenge\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from D:\AndroidProjects\Java\CBC_StoryFeed\app\src\main\AndroidManifest.xml
-		ADDED from D:\AndroidProjects\Java\CBC_StoryFeed\app\src\main\AndroidManifest.xml:2:1-21:12
-		INJECTED from D:\AndroidProjects\Java\CBC_StoryFeed\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ShopifyChallenge\app\src\main\AndroidManifest.xml
+		ADDED from D:\ShopifyChallenge\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from D:\ShopifyChallenge\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from D:\AndroidProjects\Java\CBC_StoryFeed\app\src\main\AndroidManifest.xml
-		ADDED from D:\AndroidProjects\Java\CBC_StoryFeed\app\src\main\AndroidManifest.xml:2:1-21:12
-		INJECTED from D:\AndroidProjects\Java\CBC_StoryFeed\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ShopifyChallenge\app\src\main\AndroidManifest.xml
+		ADDED from D:\ShopifyChallenge\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from D:\ShopifyChallenge\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\AndroidProjects\Java\CBC_StoryFeed\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from D:\ShopifyChallenge\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from D:\AndroidProjects\Java\CBC_StoryFeed\app\src\main\AndroidManifest.xml:4:5-67
+ADDED from D:\ShopifyChallenge\app\src\main\AndroidManifest.xml:4:5-67
 	android:name
-		ADDED from D:\AndroidProjects\Java\CBC_StoryFeed\app\src\main\AndroidManifest.xml:4:22-64
+		ADDED from D:\ShopifyChallenge\app\src\main\AndroidManifest.xml:4:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from D:\AndroidProjects\Java\CBC_StoryFeed\app\src\main\AndroidManifest.xml:5:5-79
+ADDED from D:\ShopifyChallenge\app\src\main\AndroidManifest.xml:5:5-79
 	android:name
-		ADDED from D:\AndroidProjects\Java\CBC_StoryFeed\app\src\main\AndroidManifest.xml:5:22-76
+		ADDED from D:\ShopifyChallenge\app\src\main\AndroidManifest.xml:5:22-76
 application
-ADDED from D:\AndroidProjects\Java\CBC_StoryFeed\app\src\main\AndroidManifest.xml:6:5-19:19
-MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\f62174fabfd9cf6e7e65866df58f1cf0\AndroidManifest.xml:22:5-28:19
-MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\f62174fabfd9cf6e7e65866df58f1cf0\AndroidManifest.xml:22:5-28:19
+ADDED from D:\ShopifyChallenge\app\src\main\AndroidManifest.xml:6:5-20:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\07b7ba7a018cc49bd5c12664dc81b51e\AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\07b7ba7a018cc49bd5c12664dc81b51e\AndroidManifest.xml:22:5-28:19
 	android:supportsRtl
-		ADDED from D:\AndroidProjects\Java\CBC_StoryFeed\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from D:\ShopifyChallenge\app\src\main\AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from D:\AndroidProjects\Java\CBC_StoryFeed\app\src\main\AndroidManifest.xml:9:9-41
+		ADDED from D:\ShopifyChallenge\app\src\main\AndroidManifest.xml:9:9-41
 	android:icon
-		ADDED from D:\AndroidProjects\Java\CBC_StoryFeed\app\src\main\AndroidManifest.xml:8:9-43
+		ADDED from D:\ShopifyChallenge\app\src\main\AndroidManifest.xml:8:9-43
 	android:allowBackup
-		ADDED from D:\AndroidProjects\Java\CBC_StoryFeed\app\src\main\AndroidManifest.xml:7:9-35
+		ADDED from D:\ShopifyChallenge\app\src\main\AndroidManifest.xml:7:9-35
 	android:theme
-		ADDED from D:\AndroidProjects\Java\CBC_StoryFeed\app\src\main\AndroidManifest.xml:11:9-40
-activity#navczyDevp.com.cbcstoryfeed.activities.MainActivity
-ADDED from D:\AndroidProjects\Java\CBC_StoryFeed\app\src\main\AndroidManifest.xml:12:9-17:20
+		ADDED from D:\ShopifyChallenge\app\src\main\AndroidManifest.xml:11:9-40
+activity#navczyDevp.com.shopifyintern.activities.MainActivity
+ADDED from D:\ShopifyChallenge\app\src\main\AndroidManifest.xml:12:9-17:20
 	android:name
-		ADDED from D:\AndroidProjects\Java\CBC_StoryFeed\app\src\main\AndroidManifest.xml:12:19-58
+		ADDED from D:\ShopifyChallenge\app\src\main\AndroidManifest.xml:12:19-58
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\AndroidProjects\Java\CBC_StoryFeed\app\src\main\AndroidManifest.xml:13:13-16:29
+ADDED from D:\ShopifyChallenge\app\src\main\AndroidManifest.xml:13:13-16:29
 action#android.intent.action.MAIN
-ADDED from D:\AndroidProjects\Java\CBC_StoryFeed\app\src\main\AndroidManifest.xml:14:17-69
+ADDED from D:\ShopifyChallenge\app\src\main\AndroidManifest.xml:14:17-69
 	android:name
-		ADDED from D:\AndroidProjects\Java\CBC_StoryFeed\app\src\main\AndroidManifest.xml:14:25-66
+		ADDED from D:\ShopifyChallenge\app\src\main\AndroidManifest.xml:14:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\AndroidProjects\Java\CBC_StoryFeed\app\src\main\AndroidManifest.xml:15:17-77
+ADDED from D:\ShopifyChallenge\app\src\main\AndroidManifest.xml:15:17-77
 	android:name
-		ADDED from D:\AndroidProjects\Java\CBC_StoryFeed\app\src\main\AndroidManifest.xml:15:27-74
-activity#navczyDevp.com.cbcstoryfeed.activities.WebViewActivity
-ADDED from D:\AndroidProjects\Java\CBC_StoryFeed\app\src\main\AndroidManifest.xml:18:9-64
+		ADDED from D:\ShopifyChallenge\app\src\main\AndroidManifest.xml:15:27-74
+activity#navczyDevp.com.shopifyintern.activities.Shopify
+ADDED from D:\ShopifyChallenge\app\src\main\AndroidManifest.xml:18:9-19:20
 	android:name
-		ADDED from D:\AndroidProjects\Java\CBC_StoryFeed\app\src\main\AndroidManifest.xml:18:19-61
+		ADDED from D:\ShopifyChallenge\app\src\main\AndroidManifest.xml:18:19-53
 uses-sdk
-INJECTED from D:\AndroidProjects\Java\CBC_StoryFeed\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\AndroidProjects\Java\CBC_StoryFeed\app\src\main\AndroidManifest.xml
-INJECTED from D:\AndroidProjects\Java\CBC_StoryFeed\app\src\main\AndroidManifest.xml
-MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha1.aar\af4373985cf7f4cb3c9d0a3cc8b6829e\AndroidManifest.xml:21:5-44
-MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha1.aar\af4373985cf7f4cb3c9d0a3cc8b6829e\AndroidManifest.xml:21:5-44
-MERGED from [com.android.support:recyclerview-v7:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0-alpha1.aar\829d8337d5f54c79d0a2964138998003\AndroidManifest.xml:21:5-44
-MERGED from [com.android.support:recyclerview-v7:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0-alpha1.aar\829d8337d5f54c79d0a2964138998003\AndroidManifest.xml:21:5-44
-MERGED from [com.android.support:cardview-v7:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0-alpha1.aar\e22d849e32aa51904b430edf1e6317de\AndroidManifest.xml:21:5-44
-MERGED from [com.android.support:cardview-v7:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0-alpha1.aar\e22d849e32aa51904b430edf1e6317de\AndroidManifest.xml:21:5-44
-MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\cfdb4d750b9638e829cd95673a8d3ace\AndroidManifest.xml:5:5-43
-MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\cfdb4d750b9638e829cd95673a8d3ace\AndroidManifest.xml:5:5-43
-MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\f62174fabfd9cf6e7e65866df58f1cf0\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\f62174fabfd9cf6e7e65866df58f1cf0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha1.aar\0f073c1f286e6f5f330f282657fb93a2\AndroidManifest.xml:21:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha1.aar\0f073c1f286e6f5f330f282657fb93a2\AndroidManifest.xml:21:5-44
-MERGED from [com.android.support:support-fragment:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha1.aar\13b45f89bf7482a994c043a87312a115\AndroidManifest.xml:21:5-44
-MERGED from [com.android.support:support-fragment:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha1.aar\13b45f89bf7482a994c043a87312a115\AndroidManifest.xml:21:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha1.aar\e46b727d5e6be86dcc040904f58cb160\AndroidManifest.xml:21:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha1.aar\e46b727d5e6be86dcc040904f58cb160\AndroidManifest.xml:21:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha1.aar\d3d63ccaf3ad7b4875fb8db73563e03f\AndroidManifest.xml:21:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha1.aar\d3d63ccaf3ad7b4875fb8db73563e03f\AndroidManifest.xml:21:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha1.aar\9c49792b4d3c418dd31e2c0c20e7080b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha1.aar\9c49792b4d3c418dd31e2c0c20e7080b\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\99d3d554bf445934e5910654fd13a83e\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\99d3d554bf445934e5910654fd13a83e\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha1.aar\baf35cc5a70634aeb9e016766b2be188\AndroidManifest.xml:21:5-44
-MERGED from [com.android.support:loader:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha1.aar\baf35cc5a70634aeb9e016766b2be188\AndroidManifest.xml:21:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\a5a94ba96ebf33aa38fcd69d12060184\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\a5a94ba96ebf33aa38fcd69d12060184\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\632508efa866daa4d1f45fc1ba0e73ba\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\632508efa866daa4d1f45fc1ba0e73ba\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha1.aar\a5c760d7033953bc89cf4fd98e3c1ad1\AndroidManifest.xml:21:5-44
-MERGED from [com.android.support:viewpager:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha1.aar\a5c760d7033953bc89cf4fd98e3c1ad1\AndroidManifest.xml:21:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha1.aar\81842cb8f22aa820dbfa512db498fc84\AndroidManifest.xml:21:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha1.aar\81842cb8f22aa820dbfa512db498fc84\AndroidManifest.xml:21:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha1.aar\a00b6b88aaae8d70b491bc87f5618dd6\AndroidManifest.xml:21:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha1.aar\a00b6b88aaae8d70b491bc87f5618dd6\AndroidManifest.xml:21:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha1.aar\bb9ae625acd6e2a0d652c4af9fcbb232\AndroidManifest.xml:21:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha1.aar\bb9ae625acd6e2a0d652c4af9fcbb232\AndroidManifest.xml:21:5-44
-MERGED from [com.android.support:customview:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha1.aar\2303cd9068b80d828c82358e73f469a9\AndroidManifest.xml:21:5-44
-MERGED from [com.android.support:customview:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha1.aar\2303cd9068b80d828c82358e73f469a9\AndroidManifest.xml:21:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha1.aar\ff638f3fbd1945efcd1d640f545b7b4c\AndroidManifest.xml:21:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha1.aar\ff638f3fbd1945efcd1d640f545b7b4c\AndroidManifest.xml:21:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha1.aar\45012ba236547be60af212a334e39bab\AndroidManifest.xml:21:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha1.aar\45012ba236547be60af212a334e39bab\AndroidManifest.xml:21:5-44
-MERGED from [com.android.support:support-compat:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha1.aar\942de93efc614205a108cb69df693a56\AndroidManifest.xml:21:5-44
-MERGED from [com.android.support:support-compat:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha1.aar\942de93efc614205a108cb69df693a56\AndroidManifest.xml:21:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\26a907523b556ff977322e0b4751f6bf\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\26a907523b556ff977322e0b4751f6bf\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha1.aar\10aa054d7879d556db7e9119a7cc0447\AndroidManifest.xml:21:5-44
-MERGED from [com.android.support:documentfile:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha1.aar\10aa054d7879d556db7e9119a7cc0447\AndroidManifest.xml:21:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha1.aar\fc5683683d9e47f4e09dfa3d865b566d\AndroidManifest.xml:21:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha1.aar\fc5683683d9e47f4e09dfa3d865b566d\AndroidManifest.xml:21:5-44
-MERGED from [com.android.support:print:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha1.aar\7ccca13493d458c6344907e9f8bf504a\AndroidManifest.xml:21:5-44
-MERGED from [com.android.support:print:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha1.aar\7ccca13493d458c6344907e9f8bf504a\AndroidManifest.xml:21:5-44
-MERGED from [com.android.support:interpolator:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha1.aar\97375bf963698b4cf3b016ee19448e04\AndroidManifest.xml:21:5-44
-MERGED from [com.android.support:interpolator:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha1.aar\97375bf963698b4cf3b016ee19448e04\AndroidManifest.xml:21:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha1.aar\f7381a9cf549824af9c15caf73973375\AndroidManifest.xml:21:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha1.aar\f7381a9cf549824af9c15caf73973375\AndroidManifest.xml:21:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\c6aae03c6ee2db696b620748edfc7861\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\c6aae03c6ee2db696b620748edfc7861\AndroidManifest.xml:20:5-44
-INJECTED from D:\AndroidProjects\Java\CBC_StoryFeed\app\src\main\AndroidManifest.xml
-INJECTED from D:\AndroidProjects\Java\CBC_StoryFeed\app\src\main\AndroidManifest.xml
+INJECTED from D:\ShopifyChallenge\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\ShopifyChallenge\app\src\main\AndroidManifest.xml
+INJECTED from D:\ShopifyChallenge\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha1.aar\ad49e0282b14a9527881ab0e25ff30cd\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha1.aar\ad49e0282b14a9527881ab0e25ff30cd\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0-alpha1.aar\15b884004a7cf6c743e2a3887f627808\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0-alpha1.aar\15b884004a7cf6c743e2a3887f627808\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0-alpha1.aar\5a47466848ddb7236c6463dc3a2b28e5\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0-alpha1.aar\5a47466848ddb7236c6463dc3a2b28e5\AndroidManifest.xml:21:5-44
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\68160b896b7ed0d10f6b0df3dc3666a4\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\68160b896b7ed0d10f6b0df3dc3666a4\AndroidManifest.xml:5:5-43
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\07b7ba7a018cc49bd5c12664dc81b51e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\07b7ba7a018cc49bd5c12664dc81b51e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha1.aar\8e8b74888e1144012b335a863160a42b\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha1.aar\8e8b74888e1144012b335a863160a42b\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha1.aar\a788bf4c6700a47d725faf731bdf8611\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha1.aar\a788bf4c6700a47d725faf731bdf8611\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha1.aar\9257c970063ac0c30eac691e2baf6daf\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha1.aar\9257c970063ac0c30eac691e2baf6daf\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha1.aar\08f6bd4658bfddf68dcf02a51c374023\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha1.aar\08f6bd4658bfddf68dcf02a51c374023\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha1.aar\6be51368b9cc5847b47199548549df66\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha1.aar\6be51368b9cc5847b47199548549df66\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\78d880728b564667f3cc70993eb9c0bd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\78d880728b564667f3cc70993eb9c0bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha1.aar\cf31ac803ad48c47b16da550dbeae46e\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha1.aar\cf31ac803ad48c47b16da550dbeae46e\AndroidManifest.xml:21:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\9f3db356a254d53b26ddf00ff397b46a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\9f3db356a254d53b26ddf00ff397b46a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\68a94d7af274f8f0039a765b3aed3d44\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\68a94d7af274f8f0039a765b3aed3d44\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha1.aar\17efb9bd31653bc0b03480d38cd942a0\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha1.aar\17efb9bd31653bc0b03480d38cd942a0\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha1.aar\53421a9e5c01ac8aec51ba337ac99292\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha1.aar\53421a9e5c01ac8aec51ba337ac99292\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha1.aar\355cbe735ba78b1c9f1d25c5520b12a5\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha1.aar\355cbe735ba78b1c9f1d25c5520b12a5\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha1.aar\a557ea86dda41c52cd8ba8b042ee516c\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha1.aar\a557ea86dda41c52cd8ba8b042ee516c\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha1.aar\8da62d6b8e63773773c0ce526f2d43af\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha1.aar\8da62d6b8e63773773c0ce526f2d43af\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha1.aar\7c30200121f9220acc35350ad276762e\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha1.aar\7c30200121f9220acc35350ad276762e\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha1.aar\0ec2a119823104ba5643655bd07cc8a8\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha1.aar\0ec2a119823104ba5643655bd07cc8a8\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha1.aar\5e3e37ece6c336a5e0ea77867b71c909\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha1.aar\5e3e37ece6c336a5e0ea77867b71c909\AndroidManifest.xml:21:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\aea149c1e7f2dfb47ace4024cc139005\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\aea149c1e7f2dfb47ace4024cc139005\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha1.aar\1a6aae9ac378ec33fc204cd782afa83a\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha1.aar\1a6aae9ac378ec33fc204cd782afa83a\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha1.aar\93d9fc06c240f89d184afdeaf55ceb51\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha1.aar\93d9fc06c240f89d184afdeaf55ceb51\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:print:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha1.aar\017af4f38d8d9453b5a37f9007096460\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:print:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha1.aar\017af4f38d8d9453b5a37f9007096460\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha1.aar\9f1bc230efb81bd11379ad39e9bb2a73\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha1.aar\9f1bc230efb81bd11379ad39e9bb2a73\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha1.aar\421b66d8c56132c8a91594e743b9a39f\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha1.aar\421b66d8c56132c8a91594e743b9a39f\AndroidManifest.xml:21:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\972159dce5930e83f81f6f43bb63688c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\972159dce5930e83f81f6f43bb63688c\AndroidManifest.xml:20:5-44
+INJECTED from D:\ShopifyChallenge\app\src\main\AndroidManifest.xml
+INJECTED from D:\ShopifyChallenge\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from D:\AndroidProjects\Java\CBC_StoryFeed\app\src\main\AndroidManifest.xml
-		ADDED from D:\AndroidProjects\Java\CBC_StoryFeed\app\src\main\AndroidManifest.xml
-		INJECTED from D:\AndroidProjects\Java\CBC_StoryFeed\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ShopifyChallenge\app\src\main\AndroidManifest.xml
+		ADDED from D:\ShopifyChallenge\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ShopifyChallenge\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\AndroidProjects\Java\CBC_StoryFeed\app\src\main\AndroidManifest.xml
-		ADDED from D:\AndroidProjects\Java\CBC_StoryFeed\app\src\main\AndroidManifest.xml
-		INJECTED from D:\AndroidProjects\Java\CBC_StoryFeed\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ShopifyChallenge\app\src\main\AndroidManifest.xml
+		ADDED from D:\ShopifyChallenge\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ShopifyChallenge\app\src\main\AndroidManifest.xml
 provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
-ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\f62174fabfd9cf6e7e65866df58f1cf0\AndroidManifest.xml:23:9-27:43
+ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\07b7ba7a018cc49bd5c12664dc81b51e\AndroidManifest.xml:23:9-27:43
 	android:authorities
-		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\f62174fabfd9cf6e7e65866df58f1cf0\AndroidManifest.xml:25:13-68
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\07b7ba7a018cc49bd5c12664dc81b51e\AndroidManifest.xml:25:13-68
 	android:multiprocess
-		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\f62174fabfd9cf6e7e65866df58f1cf0\AndroidManifest.xml:27:13-40
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\07b7ba7a018cc49bd5c12664dc81b51e\AndroidManifest.xml:27:13-40
 	android:exported
-		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\f62174fabfd9cf6e7e65866df58f1cf0\AndroidManifest.xml:26:13-37
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\07b7ba7a018cc49bd5c12664dc81b51e\AndroidManifest.xml:26:13-37
 	android:name
-		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\f62174fabfd9cf6e7e65866df58f1cf0\AndroidManifest.xml:24:13-83
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Navjot\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\07b7ba7a018cc49bd5c12664dc81b51e\AndroidManifest.xml:24:13-83
